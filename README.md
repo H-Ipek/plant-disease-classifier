@@ -1,7 +1,8 @@
 # 🌿 Plant Disease Classifier
 
 A deep learning model that detects plant diseases from leaf images with **97% accuracy**.
-
+## 🚀 Live Demo
+👉 [**Uygulamayı Dene**](https://huggingface.co/spaces/H-Ipek/plant-disease-classifier)
 ## 🚀 Demo
 Upload a plant leaf image and the model will predict the disease (or healthy status) with confidence scores.
 
